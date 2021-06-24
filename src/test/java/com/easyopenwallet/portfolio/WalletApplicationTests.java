@@ -1,4 +1,4 @@
-package com.easyopenwallet.wallet;
+package com.easyopenwallet.portfolio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
